@@ -85,11 +85,8 @@ Trading algorithms (Expert Advisors) are never distributed as raw files.
 
 ---
 
+---
+
 ## 🖼️ UI/UX Showcase
 
-![Screenshot](./assets/1.png)
-
-![Screenshot](./assets/2.png)
-
-![Screenshot](./assets/3.png)
-
+> **Notice:** The UI/UX screenshots for this project are currently withheld pending client approval. Please refer to the architectural diagrams above.
