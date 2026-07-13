@@ -92,84 +92,84 @@ Trading algorithms (Expert Advisors) are never distributed as raw files.
 ## 🖼️ UI/UX Showcase
 
 ### SaaS Landing Page
-![SaaS Landing Page](./assets/1.png)
+![SaaS Landing Page](./assets/ui_1.png)
 
 > **Description:** High-converting hero section optimized for algorithmic trading product sales.
 
 ---
 
 ### Product Catalog Module
-![Product Catalog Module](./assets/2.png)
+![Product Catalog Module](./assets/ui_2.png)
 
 > **Description:** Grid view of available quantitative trading algorithms with historical performance metrics.
 
 ---
 
 ### Algorithmic Systems
-![Algorithmic Systems](./assets/3.png)
+![Algorithmic Systems](./assets/ui_3.png)
 
 > **Description:** Deep dive into the logic and risk profiles of individual trading bots.
 
 ---
 
 ### Verified Performance APIs
-![Verified Performance APIs](./assets/4.png)
+![Verified Performance APIs](./assets/ui_4.png)
 
 > **Description:** Live integrations with MyFxBook and institutional trackers to prove historical yields.
 
 ---
 
 ### Enterprise Integrations
-![Enterprise Integrations](./assets/5.png)
+![Enterprise Integrations](./assets/ui_5.png)
 
 > **Description:** Overview of supported brokerages and institutional liquidity providers.
 
 ---
 
 ### Crypto Payment Gateway
-![Crypto Payment Gateway](./assets/6.png)
+![Crypto Payment Gateway](./assets/ui_6.png)
 
 > **Description:** The proprietary fractional decimal TRC-20 checkout system ensuring 0% gateway fees.
 
 ---
 
 ### Automated File Delivery
-![Automated File Delivery](./assets/7.png)
+![Automated File Delivery](./assets/ui_7.png)
 
 > **Description:** User dashboard for securely downloading the compiled MT5 binary files.
 
 ---
 
 ### Cross-Selling Module
-![Cross-Selling Module](./assets/8.png)
+![Cross-Selling Module](./assets/ui_8.png)
 
 > **Description:** Upsell mechanics offering VPS hosting and premium discord access.
 
 ---
 
 ### Compliance Footer
-![Compliance Footer](./assets/9.png)
+![Compliance Footer](./assets/ui_9.png)
 
 > **Description:** Required regulatory disclaimers and risk warnings for financial products.
 
 ---
 
 ### System Overview Dashboard
-![System Overview Dashboard](./assets/10.png)
+![System Overview Dashboard](./assets/ui_10.png)
 
 > **Description:** Administrator panel showing live active users, total deposits, and system health.
 
 ---
 
 ### Product Management
-![Product Management](./assets/11.png)
+![Product Management](./assets/ui_11.png)
 
 > **Description:** Admin UI for uploading new MQL5 source code updates.
 
 ---
 
 ### Multi-Network Crypto Wallets
-![Multi-Network Crypto Wallets](./assets/12.png)
+![Multi-Network Crypto Wallets](./assets/ui_12.png)
 
 > **Description:** Treasury management view displaying multi-sig Gnosis Safe balances across EVM chains.
 
