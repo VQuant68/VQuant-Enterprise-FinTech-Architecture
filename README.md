@@ -82,3 +82,14 @@ Trading algorithms (Expert Advisors) are never distributed as raw files.
 * **100% Automated Fulfillment:** Reduced manual customer support tickets regarding file delivery to zero.
 * **0% Payment Gateway Fees:** By utilizing a custom TRC-20 polling daemon, the system bypasses Stripe/Coinbase Commerce fees, saving roughly 2.5% on every transaction.
 * **Infinite Scalability:** The PM2 worker architecture allows the compilation queue to scale horizontally across multiple CPU cores during high-traffic launch days.
+
+---
+
+## 🖼️ UI/UX Showcase
+
+![Screenshot](./assets/1.png)
+
+![Screenshot](./assets/2.png)
+
+![Screenshot](./assets/3.png)
+
